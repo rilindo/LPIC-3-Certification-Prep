@@ -185,8 +185,8 @@ https://www.lpi.org/study-resources/lpic-3-300-exam-objectives/
 
 ### 397.2 Working with Windows Clients
 
-* Knowledge of Windows clients
-* Explore browse lists and SMB clients from Windows
-* Share file / print resources from Windows
-* Use of the smbclient program
-* Use of the Windows net utility
+* Knowledge of Windows clients - [Configuring Windows Clients](https://www.samba.org/samba/docs/using_samba/ch03.html)
+* Explore browse lists and SMB clients from Windows - [Accessing an SMB Share With Linux Machines](http://www.tldp.org/HOWTO/SMB-HOWTO-8.html)
+* Share file / print resources from Windows - [Using Samba to share files between Linux and Windows](https://www.linux.com/news/using-samba-share-files-between-linux-and-windows)
+* Use of the smbclient program - [Samba Client Guide](https://help.ubuntu.com/community/Samba/SambaClientGuide)
+* Use of the Windows net utility - [Linux for Windows Admins: Doing the Samba Shuffle](http://www.admin-magazine.com/Articles/Linux-for-Windows-Admins-Samba-Shuffle)
