@@ -177,11 +177,11 @@ https://www.lpi.org/study-resources/lpic-3-300-exam-objectives/
 
 ### 397.1 CIFS Integration
 
-* Understand SMB/CIFS concepts
-* Access and mount remote CIFS shares from a Linux client
-* Securely storing CIFS credentials
-* Understand features and benefits of CIFS
-* Understand permissions and file ownership of remote CIFS shares
+* Understand SMB/CIFS concepts - [Getting Familiar with a SMB/CIFS Network](http://www.oreilly.com/openbook/samba/book/ch01_03.html)
+* Access and mount remote CIFS shares from a Linux client -  [Linux mount CIFS Windows Share](http://www.cyberciti.biz/faq/linux-mount-cifs-windows-share/
+* Securely storing CIFS credentials - [Proper way to mount samba share](http://unix.stackexchange.com/questions/82194/proper-way-to-mount-samba-share)
+* Understand features and benefits of CIFS - [Learn Linux, 302 (Mixed environments): CIFS integration](http://www.ibm.com/developerworks/library/l-lpic3-314-1/)
+* Understand permissions and file ownership of remote CIFS shares - [File, Directory, and Share Access Controls](https://www.samba.org/samba/docs/man/Samba-HOWTO-Collection/AccessControls.html)
 
 ### 397.2 Working with Windows Clients
 
