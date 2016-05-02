@@ -171,8 +171,8 @@ http://www.ibm.com/developerworks/linux/library/l-lpic3-310-1/ - Note that it re
 
 ### 396.2 Active Directory Name Resolution
 
-* Understand and manage DNS for Samba4 as an AD Domain Controller
-* DNS forwarding with the internal DNS server of Samba4
+* Understand and manage DNS for Samba4 as an AD Domain Controller - [Setup a Samba Active Directory Domain Controller](https://wiki.samba.org/index.php/Setup_a_Samba_Active_Directory_Domain_Controller)
+* DNS forwarding with the internal DNS server of Samba4 - [Samba Internal DNS](https://wiki.samba.org/index.php/Samba_Internal_DNS)
 
 ## 397 – Working with Linux and Windows Clients
 
