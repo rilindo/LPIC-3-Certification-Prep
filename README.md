@@ -1,9 +1,9 @@
-# LPI3-Certificatons
 This is a list of resources needed to pass LPI3 117-300 - Mixed Environments
 
 #Study Objectives
 
 https://www.lpi.org/study-resources/lpic-3-300-exam-objectives/
+
 http://www.ibm.com/developerworks/linux/library/l-lpic3-310-1/ - Note that it refers to LPIC-302, but the material in it is now in LPIC-300
 
 ## 390 – OpenLDAP Configuration
