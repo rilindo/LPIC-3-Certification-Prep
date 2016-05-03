@@ -158,16 +158,16 @@ http://www.ibm.com/developerworks/linux/library/l-lpic3-310-1/ - Note that it re
 
 ### 396.1 NetBIOS and WINS
 
-* Understand WINS concepts
-* Understand NetBIOS concepts
-* Understand the role of a local master browser
-* Understand the role of a domain master browser
-* Understand the role of Samba as a WINS server
-* Understand name resolution
-* Configure Samba as a WINS server
-* Configure WINS replication
-* Understand NetBIOS browsing and browser elections
-* Understand NETBIOS name types
+* Understand WINS concepts - [Understanding WINS](https://technet.microsoft.com/en-us/library/cc757986(v=ws.10).aspx)
+* Understand NetBIOS concepts - [Understanding NetBIOS](http://leetupload.com/database/Misc/Papers/files/009/netbios.pdf)
+* Understand the role of a local master browser - [How to Determine the Master Browser in a Windows Workgroup](http://scottiestech.info/2009/02/14/how-to-determine-the-master-browser-in-a-windows-workgroup/)
+* Understand the role of a domain master browser - [Domain Master Browser](https://en.wikipedia.org/wiki/Domain_Master_Browser)
+* Understand the role of Samba as a WINS server - [Learn Linux, 302 (Mixed environments): NetBIOS and WINS](http://www.ibm.com/developerworks/library/l-lpic3-314-2/)
+* Understand name resolution - [Understanding Name Resolution](http://etutorials.org/Microsoft+Products/microsoft+windows+xp+professional+training+kit/Chapter+5+-+Using+the+DNS+Service+and+Active+Directory+Service/Lesson+2nbspUnderstanding+Name+Resolution/)
+* Configure Samba as a WINS server - [Samba as a WINS server in a Windows Peer Network](https://whereofwecannotspeak.wordpress.com/2007/10/24/samba-as-a-wins-server-in-a-windows-peer-network/)
+* Configure WINS replication - [WINS Server Configuration](http://www.linuxtopia.org/online_books/network_administration_guides/samba_reference_guide/17_NetworkBrowsing_21.html)
+* Understand NetBIOS browsing and browser elections - [Browser Elections](https://technet.microsoft.com/en-us/library/cc959896.aspx)
+* Understand NETBIOS name types - [How NetBIOS name resolution really works](http://www.techrepublic.com/article/how-netbios-name-resolution-really-works/)
 
 ### 396.2 Active Directory Name Resolution
 
